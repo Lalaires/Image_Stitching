@@ -1,4 +1,4 @@
-# Image_Stitching
+# Image Stitching
 
 The image stitching pipeline which consisted of self-implemented functions creates panoramas from overlapping images.
 
